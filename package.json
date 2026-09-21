@@ -1,0 +1,12 @@
+{
+  "name": "destination_sites",
+  "version": "1.0.0",
+  "description": "a dataset of the planet's most interesting places",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "author": "Godwin",
+  "license": "ISC"
+}

@@ -1,0 +1,80 @@
+export const destinations = [
+  {
+    id: "1",
+    name: "Kyoto",
+    country: "Japan",
+    region: "Asia",
+    description: "Famous for its classical Buddhist temples, gardens, imperial palaces, Shinto shrines, and traditional wooden houses.",
+    pricePerNight: 130,
+    currency: "USD",
+    rating: 4.8,
+    category: "Culture",
+    popularTags: ["Temples", "History", "Nature", "Food"],
+    imageUrl: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e"
+  },
+  {
+    id: "2",
+    name: "Santorini",
+    country: "Greece",
+    region: "Europe",
+    description: "Known for its whitewashed, cubiform houses clinging to cliffs overlooking the Aegean Sea, and stunning sunsets.",
+    pricePerNight: 250,
+    currency: "USD",
+    rating: 4.9,
+    category: "Beach",
+    popularTags: ["Romantic", "Islands", "Sunsets", "Luxury"],
+    imageUrl: "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff"
+  },
+  {
+    id: "3",
+    name: "Banff National Park",
+    country: "Canada",
+    region: "North America",
+    description: "Home to turquoise glacial lakes, majestic peaks, and abundant mountain wildlife in the Canadian Rockies.",
+    pricePerNight: 180,
+    currency: "USD",
+    rating: 4.7,
+    category: "Adventure",
+    popularTags: ["Hiking", "Lakes", "Mountains", "Wildlife"],
+    imageUrl: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+  },
+  {
+    id: "4",
+    name: "Marrakech",
+    country: "Morocco",
+    region: "Africa",
+    description: "A major economic center and home to mosques, palaces, vibrant souks, and lush gardens.",
+    pricePerNight: 95,
+    currency: "USD",
+    rating: 4.6,
+    category: "Culture",
+    popularTags: ["Markets", "Architecture", "Food", "Spices"],
+    imageUrl: "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72"
+  },
+  {
+    id: "5",
+    name: "Reykjavik",
+    country: "Iceland",
+    region: "Europe",
+    description: "Gateway to Iceland's dramatic volcanic landscape, geothermal hot springs, and Northern Lights viewing.",
+    pricePerNight: 210,
+    currency: "USD",
+    rating: 4.8,
+    category: "Nature",
+    popularTags: ["Northern Lights", "Hot Springs", "Volcanoes", "Scenery"],
+    imageUrl: "https://images.unsplash.com/photo-1504893524553-b855bce32c67"
+  },
+  {
+    id: "6",
+    name: "Queenstown",
+    country: "New Zealand",
+    region: "Oceania",
+    description: "The adventure capital of the world, set against the dramatic Southern Alps on Lake Wakatipu.",
+    pricePerNight: 160,
+    currency: "USD",
+    rating: 4.9,
+    category: "Adventure",
+    popularTags: ["Extreme Sports", "Skiing", "Lakes", "Hiking"],
+    imageUrl: "https://images.unsplash.com/photo-1507699622108-4be3abd695ad"
+  }
+];
